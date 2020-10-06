@@ -51,6 +51,8 @@ In this website, two .cvs files are attached:
 The 4 best fitting models are numbers in their namefile (01-H2OStacked Ensemble,02-LGBMRegressorV1,03-LGBMRegressorV2 and 04-RandomForestRegressorV5).
 The other ones, are just tests that did not come to a submission to kaggle. (Linear Regressrion, ElasticNet, KNeighborsRegressor,  DecisionTreeRegressor, RandomForestRegressor with hyperparameters changing, H2ODeepLearningStimator)
 
+3) pdf: It contains a final slide summming the developed project, and neeeded files for the readme file and the slide itself
+
 
 ## Project development
 
